@@ -40,7 +40,7 @@ const Hero = () => {
 
   const handleDownloadCV = () => {
     // Replace this URL with your actual Google Drive CV link
-    window.open('https://1drv.ms/b/c/81cc91bec956fae6/EQMe-u4lSBNJnz7KYIZawq4BdubJOJHfg5xCskKXsZTZ0g?e=hUMDSQ', '_blank');
+    window.open('https://1drv.ms/b/c/81cc91bec956fae6/EWD3j9cD6_VEiPeNQDZhEIsBl0OiyIkFsnM9E0GYdUuCEQ?e=MypZJZ', '_blank');
   };
 
   return (
