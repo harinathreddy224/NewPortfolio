@@ -12,7 +12,7 @@ const Experience = () => {
     },
     {
       id: 2,
-      company: "InfoVision Labs India Private Limited",
+      company: "Arcos Skill Management Services Pvt. Ltd.",
       description: "Developed and maintained complex web applications using MERN stack technologies. Worked closely with UI/UX designers to create intuitive user interfaces and seamless user experiences. Contributed to code reviews, mentored junior developers, and implemented best practices for clean, maintainable code.",
       gradient: "from-purple-500 to-pink-600",
       bgGradient: "from-purple-500/10 to-pink-600/10"
