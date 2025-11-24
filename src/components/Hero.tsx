@@ -40,7 +40,7 @@ const Hero = () => {
 
   const handleDownloadCV = () => {
     // Replace this URL with your actual Google Drive CV link
-    window.open('https://drive.google.com/file/d/1ZmVcycqOGjzmp0vWElwjsybsxMkmQ7uW/view?usp=sharing', '_blank');
+    window.open('https://www.linkedin.com/in/harinathreddys/');
   };
 
   return (
