@@ -6,7 +6,7 @@ const Projects = () => {
       id: 1,
       name: "Ticketing System",
       description: "Developed a responsive web-based ticketing system using React.js, Bootstrap, and Redux for efficient complaint management and real-time technician tracking. Integrated RESTful APIs with Axios and ensured cross-browser compatibility, accessibility, and optimized UI performance. Handled client communication, requirement gathering, issue resolution, and timely task delivery throughout the development cycle.",
-      skills: ["ReactJS", "Frontend Technologies"],
+      skills: ["ReactJS", "Full Stack Technologies"],
       gradient: "from-blue-500 to-purple-600",
       bgGradient: "from-blue-500/10 to-purple-600/10"
     },
@@ -14,7 +14,7 @@ const Projects = () => {
       id: 2,
       name: "Nimble",
       description: "Built a web-based loan management system covering five key stages—Initiation to Dispatch—to automate and streamline the entire loan lifecycle. Integrated real-time status tracking, automated reminders, and third-party API verifications, with a responsive UI for borrowers, agents, and admins. Led requirement analysis, client interactions, and sprint-based delivery of enhancements, bug fixes, and updates.",
-      skills: ["ReactJS", "Frontend Technologies"],
+      skills: ["Angular", "Full Stack Technologies"],
       gradient: "from-green-500 to-teal-600",
       bgGradient: "from-green-500/10 to-teal-600/10"
     },
@@ -22,7 +22,7 @@ const Projects = () => {
       id: 3,
       name: "Ticketing Tool",
       description: "Developed a centralized web-based platform to streamline internal service requests across departments, including IT, HR, finance, and recruitment. Enabled digital submission and real-time tracking of requests, reducing reliance on direct communication. Improved operational efficiency by automating workflows and enhancing interdepartmental coordination.",
-      skills: ["ReactJS", "Frontend Technologies"],
+      skills: ["ReactJS", "Full Stack Technologies"],
       gradient: "from-orange-500 to-red-600",
       bgGradient: "from-orange-500/10 to-red-600/10"
     }
