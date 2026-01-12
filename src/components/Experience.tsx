@@ -6,14 +6,14 @@ const Experience = () => {
     {
       id: 1,
       company: "Kalpita Technologies",
-      description: "frontend development initiatives for multiple client projects, specializing in React.js and modern JavaScript frameworks. Collaborated with cross-functional teams to deliver high-quality, scalable web applications. Implemented responsive designs and optimized performance across various devices and browsers.",
+      description: "Software Engineer initiatives for multiple client projects, specializing in React.js and modern JavaScript frameworks. Collaborated with cross-functional teams to deliver high-quality, scalable web applications. Implemented responsive designs and optimized performance across various devices and browsers.",
       gradient: "from-blue-500 to-cyan-600",
       bgGradient: "from-blue-500/10 to-cyan-600/10"
     },
     {
       id: 2,
       company: "Arcos Skill Management Services Pvt. Ltd.",
-      description: "Developed and maintained complex web applications using MERN stack technologies. Worked closely with UI/UX designers to create intuitive user interfaces and seamless user experiences. Contributed to code reviews, mentored junior developers, and implemented best practices for clean, maintainable code.",
+      description: "Developed and maintained complex web applications using Full stack technologies. Worked closely with UI/UX designers to create intuitive user interfaces and seamless user experiences. Contributed to code reviews, mentored junior developers, and implemented best practices for clean, maintainable code.",
       gradient: "from-purple-500 to-pink-600",
       bgGradient: "from-purple-500/10 to-pink-600/10"
     }
