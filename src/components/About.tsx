@@ -28,7 +28,7 @@ const About = () => {
             About Me
           </h2>
           <p className="text-base sm:text-lg md:text-xl text-white/80 max-w-3xl mx-auto leading-relaxed px-2">
-            I'm a passionate Frontend - Reactjs developer who loves to create digital solutions that make a difference. 
+            I'm a passionate Full Stack developer who loves to create digital solutions that make a difference. 
             With a keen eye for detail and a commitment to excellence, I transform ideas into reality.
           </p>
         </div>
