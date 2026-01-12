@@ -8,7 +8,7 @@ const Footer = () => {
       <div className="max-w-7xl mx-auto">
         <div className="text-center">
           <p className="text-white/70 text-sm sm:text-base md:text-lg">
-            Designed and built with passion © {currentYear}. Inspired by Harinath.
+            Designed and built with passion © {currentYear}. Inspired by ❤️ Harinath.
           </p>
         </div>
       </div>
