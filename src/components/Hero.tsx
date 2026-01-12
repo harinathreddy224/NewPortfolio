@@ -5,8 +5,8 @@ const Hero = () => {
   const roles = [
     'ReactJS Developer',
     'Frontend Developer', 
-    'JavaScript Developer',
-    'MERN Stack Developer'
+    'Dot Net Developer',
+    'Full Stack Developer'
   ];
 
   const [currentRoleIndex, setCurrentRoleIndex] = useState(0);
@@ -40,7 +40,7 @@ const Hero = () => {
 
   const handleDownloadCV = () => {
     // Replace this URL with your actual Google Drive CV link
-    window.open('https://www.linkedin.com/in/harinathreddys/');
+    window.open('https://drive.google.com/file/d/1nSfg3zm6SwHDr4A65nyzulS9y9m4axGp/view?usp=sharing');
   };
 
   return (
@@ -80,7 +80,7 @@ const Hero = () => {
             
             {/* Description */}
             <p className="text-sm xs:text-base sm:text-lg md:text-xl text-white/70 leading-relaxed max-w-xl mx-auto lg:mx-0">
-              A passionate Frontend React.js Developer dedicated to building user-friendly, responsive, and visually appealing websites.
+              A passionate Full Stack Developer dedicated to building user-friendly, responsive, and visually appealing websites.
             </p>
             
             {/* Download CV Button - Centered */}
