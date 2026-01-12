@@ -7,7 +7,7 @@ const Connect = () => {
       id: 1,
       name: "LinkedIn",
       icon: Linkedin,
-      url: "https://www.linkedin.com/in/harinathreddys/", // Replace with your actual LinkedIn URL
+      url: "https://www.linkedin.com/in/harinath-reddy-mkp/", // Replace with your actual LinkedIn URL
       gradient: "from-blue-600 to-blue-800",
       bgGradient: "from-blue-600/10 to-blue-800/10",
       hoverColor: "hover:bg-blue-600/20"
@@ -16,7 +16,7 @@ const Connect = () => {
       id: 2,
       name: "Instagram",
       icon: Instagram,
-      url: "https://www.instagram.com/pspkvibe_harinathreddy/?hl=en", // Replace with your actual Instagram URL
+      url: "https://www.instagram.com/harinaths9642/", // Replace with your actual Instagram URL
       gradient: "from-pink-500 to-purple-600",
       bgGradient: "from-pink-500/10 to-purple-600/10",
       hoverColor: "hover:bg-pink-500/20"
@@ -25,7 +25,7 @@ const Connect = () => {
       id: 3,
       name: "Email",
       icon: Mail,
-      url: "mailto:reddyharinaths999@gmail.com", // Replace with your actual email
+      url: "mailto:reddyweb9642@gmail.com", // Replace with your actual email
       gradient: "from-green-500 to-emerald-600",
       bgGradient: "from-green-500/10 to-emerald-600/10",
       hoverColor: "hover:bg-green-500/20"
