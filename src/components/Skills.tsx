@@ -21,6 +21,11 @@ const Skills = () => {
 
   const skills = [
     { name: 'ReactJS', icon: Code, color: 'from-blue-400 to-cyan-400', bgColor: 'bg-blue-500/10' },
+    { name: 'Dot Net', icon: Code, color: 'from-blue-400 to-cyan-400', bgColor: 'bg-blue-500/10' },
+    { name: 'ASP.NET Web API', icon: Code, color: 'from-blue-400 to-cyan-400', bgColor: 'bg-blue-500/10' },
+    { name: 'RESTful API', icon: Code, color: 'from-blue-400 to-cyan-400', bgColor: 'bg-blue-500/10' },
+    { name: 'Angular', icon: Code, color: 'from-blue-400 to-cyan-400', bgColor: 'bg-blue-500/10' },
+    { name: 'SQL Server', icon: Code, color: 'from-blue-400 to-cyan-400', bgColor: 'bg-blue-500/10' },
     { name: 'Redux', icon: Database, color: 'from-purple-400 to-pink-400', bgColor: 'bg-purple-500/10' },
     { name: 'JavaScript', icon: FileCode, color: 'from-yellow-400 to-orange-400', bgColor: 'bg-yellow-500/10' },
     { name: 'Bootstrap', icon: Layers, color: 'from-purple-400 to-blue-400', bgColor: 'bg-purple-500/10' },
